@@ -1,3 +1,5 @@
+> **Merged into [site-kit](https://github.com/jasveerai88/site-kit)** — this tool now ships as the `wall-of-love` module of the site-kit suite (v1.0.0, also on PyPI). New work happens there; this repo stays as the original standalone release.
+
 # wall-of-love
 
 **Your customers' kind words should not cost $29 a month.**
